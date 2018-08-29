@@ -1,0 +1,33 @@
+{
+  "name": "noon-apicific",
+  "version": "1.0.0",
+  "description": "Noon Pacific API wrapper for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremie Zarca",
+  "license": "ISC",
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "axios": "^0.18.0",
+    "moment": "^2.22.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzarca01/noon-apicific.git"
+  },
+  "keywords": [
+    "noon-pacific",
+    "node",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/jzarca01/noon-apicific/issues"
+  },
+  "homepage": "https://github.com/jzarca01/noon-apicific#readme"
+}
